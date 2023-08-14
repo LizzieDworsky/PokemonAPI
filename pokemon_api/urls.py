@@ -21,4 +21,5 @@ urlpatterns = [
     # path('api/type/', include('type.urls')),
     # path('api/attack/', include('attack.urls')),
     path('api/pokemon/', include('pokemon.urls')),
+    path('api/type/', include('type.urls')),
 ]
